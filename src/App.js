@@ -19,7 +19,6 @@ const ToDoListWrap = styled.div`
 
     }
   }
-  
 `
 
 const TodoInput = styled.input.attrs(props => ({
